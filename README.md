@@ -11,7 +11,7 @@ English | [中文](https://github.com/shiertier-utils/shiertier_modelscope/blob/
 You can install `shiertier_modelscope` via `pip`:
 
 ```bash
-pip install git+https://github.com/shiertier/shiertier_modelscope.git
+pip install git+https://github.com/shiertier-utils/shiertier_modelscope.git
 ```
 
 Please note that this project is still under development.

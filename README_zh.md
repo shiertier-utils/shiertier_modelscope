@@ -11,7 +11,7 @@
 您可以通过 `pip` 安装 `shiertier_modelscope`：
 
 ```bash
-pip install git+https://github.com/shiertier/shiertier_modelscope.git
+pip install git+https://github.com/shiertier-utils/shiertier_modelscope.git
 ```
 
 请注意，该项目仍在开发中。
